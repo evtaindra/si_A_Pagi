@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloWorld</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="hello_world">Hello SI A Pagi</string>
+     <string name="selamat_datang">Selamat Datang Semua, Tetap Semangat Belajar</string>
+     <string name="evta">Evta Indra</string>
+
+</resources>
